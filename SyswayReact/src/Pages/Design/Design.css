@@ -1,0 +1,85 @@
+
+.one{
+    position: relative;
+float: left;
+width: 35%;
+background-color: blue;
+height: 490px;
+margin-bottom: 20px;
+}
+
+.two{
+    position: relative;
+float: left;
+width: 65%;
+background-color: whitesmoke;
+height: 490px;
+}
+
+.three{
+    position: absolute;
+    top: 23px;
+    left: 310px;
+}
+
+.four{
+    height: 442px;
+    width: 315px;
+}
+
+.five{
+    font-family: monospace;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    left: 18px;
+}
+
+.six{
+    font-family: monospace;
+    color: black;
+    position: absolute;
+    bottom: 34%;
+    left: 30%;
+}
+
+.seven{
+    font-size: 25px;
+    color: blue;
+}
+
+.social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+a.social:hover {
+    transform: translateY(-2px);
+  }
+
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: black;
+  }
