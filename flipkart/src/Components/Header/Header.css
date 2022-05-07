@@ -1,0 +1,43 @@
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 45%;
+}
+
+.input-group-append{
+    margin-left: 0px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    color: #0d6efd;
+    background-color: white;
+    border-color: white;
+}
+
+.class1{
+    background-color: #0d6efd;
+    color: white;
+    border-color: #0d6efd;
+    pointer-events: none;
+}
+.class2{
+    pointer-events: none;
+}
+.class3{
+    pointer-events: none;
+}
+#dropdown-basic-button{
+    color: white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.class5 {
+    color: white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}

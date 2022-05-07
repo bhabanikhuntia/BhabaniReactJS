@@ -1,0 +1,42 @@
+.class6 {
+    background: #fff;
+    min-height: 112px;
+    margin-left: 10rem;
+}
+.class7{
+    width: 100%;
+    display: flex;
+}
+
+.class8{
+    position: sticky;
+    justify-content: space-between;
+    flex-direction: row;
+    /* max-width: 1280px; */
+    color: #212121;
+}
+
+.class9 {
+    padding: 12px 8px;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+}
+
+.class10{
+    position: relative;
+    margin: 0 auto;
+    height: 64px;
+    width: 64px;
+}
+
+.class11{
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.class12{
+    height: 50;
+    width: 50;
+    border-radius: 50%;
+}
