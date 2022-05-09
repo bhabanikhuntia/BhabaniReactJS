@@ -1,0 +1,13 @@
+
+.bg-secondary {
+    padding-top: 5rem;
+    height: 7rem;
+}
+.navbar-expand .navbar-nav {
+    flex-direction: row;
+    margin-left: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}

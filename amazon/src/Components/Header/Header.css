@@ -1,0 +1,82 @@
+body {
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+    margin-left: 1rem;
+}
+
+.class1 {
+    height: 35px;
+    width: 100%;
+}
+
+.class2 {
+    height: 40px;
+    width: 100%;
+    margin-left: -1.5rem;
+    background-color: orangered;
+}
+
+.class3 {
+    font-size: 0.8rem;
+    height: 3rem;
+    background-color: #f3f3f3;
+    color: black;
+    font-family: inherit;
+}
+
+.btn-success {
+    color: black;
+    background-color: #f3f3f3;
+    border-color: #f3f3f3;
+}
+
+.btn-success:hover {
+    color: black;
+    background-color: #f3f3f3;
+    border-color: #f3f3f3;
+}
+.show>.btn-success.dropdown-toggle {
+    color: black;
+    background-color: #f3f3f3;
+    border-color: orange;
+}
+
+.show>.btn-success.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.25rem rgb(255 165 0 / 50%);
+}
+
+.btn-success:focus {
+    color: black;
+    background-color: #f3f3f3;
+    border-color: #f3f3f3;
+    box-shadow: 0 0 0 0.25rem rgb(255 165 0 / 50%);
+}
+
+.form-control {
+    width: 41%;
+    position: absolute;
+    margin-left: 3.5rem;
+    border-radius: 0rem;
+}
+
+.btn-primary {
+    position: absolute;
+    margin-left: 41.8rem;
+    color: #fff;
+    background-color: orange;
+    border-color: orange;
+}
+.btn-primary:hover {
+    color: white;
+    background-color: orange;
+    border-color: orange;
+}
+.btn-primary:focus {
+    color: #fff;
+    background-color: orange;
+    border-color: orange;
+    box-shadow: 0 0 0 0.25rem rgb(255 165 0 / 50%);
+}
