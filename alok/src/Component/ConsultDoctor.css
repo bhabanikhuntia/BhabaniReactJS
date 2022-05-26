@@ -1,0 +1,80 @@
+.btn-success {
+    color: black;
+    background-color: white;
+    border-color: #198754;
+}
+.btn-success:hover {
+    color: black;
+    background-color: white;
+    border-color: #146c43;
+}
+
+.show>.btn-success.dropdown-toggle {
+    color: black;
+    background-color: white;
+    border-color: #13653f;
+}
+.btn-success:focus {
+    color: black;
+    background-color: white;
+    border-color: #146c43;
+    /* box-shadow: 0 0 0 0.25rem rgb(60 153 110 / 50%); */
+}
+
+.cd1 {
+        height: 7rem;
+        background-color: rgb(218, 242, 239);
+        /* margin: 2rem; */
+        margin-top: 0.5rem;
+        border-radius: 0.5rem;
+}
+.cd2 {
+    margin-top: 2rem;
+    border: 5px solid #00b59f;
+    border-radius: 1rem;
+    font-family: Roboto;
+}
+.cd3 {
+    font-weight: bold;
+    padding-top: 1.5rem;
+}
+.cd4 {
+    padding-top: 1rem;
+    /* font-weight: bold; */
+    font-size: large;
+}
+.cd5 {
+    padding-top: 3.5rem;
+}
+#dropdown-basic {
+        height: 2rem;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        border-radius: inherit;
+        display: flex;
+}
+.mb-3 {
+    margin-bottom: 1rem!important;
+    margin-top: 1rem;
+    width: 23em;
+}
+small {
+    font-size: 1em;
+}
+
+.PhoneInput {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5rem;
+    width: 23em;
+}
+.btn-secondary:disabled {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    margin-top: 4rem;
+}
+.form-control {
+    line-height: 0.5;
+}
